@@ -1,3 +1,9 @@
+## NAME:T.THRISHENDRA
+# REG NO: 212223230227
+# DATE: 23/09/2024
+
+
+
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
 
 
@@ -20,7 +26,7 @@ interfaces Datasheet - production data Features
    16×2 LCD is named so because; it has 16 Columns and 2 Rows. There are a lot of combinations available like,
    8×1, 8×2, 10×2, 16×1, etc. But the most used one is the 16*2 LCD, hence we are using it here.
 
-All the above mentioned LCD display will have 16 Pins and the programming approach is also the same and hence the choice is left to you. 
+All the 23above mentioned LCD display will have 16 Pins and the programming approach is also the same and hence the choice is left to you. 
 Below is the Pinout and Pin Description of 16x2 LCD Module:
 
 ![image](https://user-images.githubusercontent.com/36288975/233858086-7b1a88a2-f941-475c-86c2-b3bae68bdf7e.png)
